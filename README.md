@@ -17,17 +17,17 @@ HTTP isteklerini kullanarak Instagram girişlerini deneyen bir instagram checker
 1. Depoyu klonlayın:
 
     git clone https://github.com/semreofficial/instagram-login-bot
-    ''''
+    
 
 2. Proje dizinine gidin:
 
     cd instagram-login-bot
-    ''''
+    
 
 3. Bağımlılıkları yükleyin:
 
     pip install requests
-    ''''
+    
 
 ## Kullanım
 
@@ -35,7 +35,7 @@ HTTP isteklerini kullanarak Instagram girişlerini deneyen bir instagram checker
 2. Komut dosyasını çalıştırın:
 
     python instagram_bot.py
-    ''''
+    
 
 ## Sorumluluk reddi beyanı
 
