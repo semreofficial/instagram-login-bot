@@ -1,0 +1,3 @@
+"username1", "password1" 
+
+şeklinde tırnak içerisinde olan yerlere hesap ismi ve şifreyi yazın iyi kullanmalar 
