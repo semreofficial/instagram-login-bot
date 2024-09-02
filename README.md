@@ -34,7 +34,7 @@ HTTP isteklerini kullanarak Instagram girişlerini deneyen bir instagram checker
 1. "instagram_bot.py" komut dosyasını kimlik bilgilerinizle güncelleyin.
 2. Komut dosyasını çalıştırın:
 
-    pitopn instagram_bot.py
+    python instagram_bot.py
     ''''
 
 ## Sorumluluk reddi beyanı
