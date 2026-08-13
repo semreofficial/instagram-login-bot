@@ -16,7 +16,7 @@ HTTP isteklerini kullanarak Instagram girişlerini deneyen bir instagram checker
 
 1. Depoyu klonlayın:
 
-    git clone https://github.com/semreofficial/instagram-login-bot
+    git clone https://github.com/emretix/instagram-login-bot
     
 
 2. Proje dizinine gidin:
